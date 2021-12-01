@@ -1,2 +1,2 @@
 # quasar
-quasars with brad
+quasars with Eleanor 
